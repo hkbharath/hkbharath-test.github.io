@@ -1,152 +1,340 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
+    "name": "Bharathkumar Hegde",
+    "email": "hegdebharathkumar@gmail.com",
     "phone": "",
-    "website": "https://academicpages.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
+    "website": "https://hkbharath.github.io",
+    "summary": "PhD researcher specialising in extracting real-world value from state-of-the-art AI technologies by integrating them with established theories and systems, with publications in IEEE IV and AI Communications. Backed by more than 5 years of industry experience at Intel and Commvault, I bridge academic research with production-ready applications of RL, Computer Vision, LLMs, and Multi-Agent Systems.",
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "Earth",
-      "countryCode": "US",
-      "region": ""
+      "city": "Dublin",
+      "countryCode": "IE",
+      "region": "County Dublin"
     },
     "profiles": [
       {
         "network": "Google Scholar",
-        "username": "",
-        "url": "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+        "username": "Bharathkumar Hegde",
+        "url": "https://scholar.google.com/citations?user=3-DdOoYAAAAJ&hl=en"
       },
       {
         "network": "ORCID",
-        "username": "",
-        "url": "https://orcid.org/yourorcidurl"
+        "username": "0000-0002-2085-7867",
+        "url": "https://orcid.org/0000-0002-2085-7867"
       },
       {
         "network": "GitHub",
-        "username": "academicpages",
-        "url": "https://github.com/academicpages"
+        "username": "hkbharath",
+        "url": "https://github.com/hkbharath"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "hkbharath",
+        "url": "https://www.linkedin.com/in/hkbharath"
       }
     ]
   },
-  "work": [],
+  "work": [
+    {
+      "company": "Trinity College Dublin",
+      "position": "Researcher",
+      "website": "https://www.tcd.ie",
+      "startDate": "2021-09-01",
+      "endDate": "",
+      "summary": "Designed a novel lane change controller for Connected and Autonomous Vehicles (CAVs) by integrating Multi-Agent RL with Control Barrier Functions (CBFs) to balance conflicting requirements of efficiency and safety.",
+      "highlights": [
+        "Designed a novel lane change controller for CAVs by integrating Multi-Agent RL with CBFs to balance conflicting requirements of efficiency and safety",
+        "Published technical papers in the AI Communications journal and IEEE IV conferences",
+        "Published technical papers in the ATT workshops held in conjunction with IJCAI 2022 and ECAI 2024",
+        "Contributed to teaching undergraduate and postgraduate modules at Trinity College Dublin, including Machine Learning, Data Structures, and Programming Project, through demonstrations and tutorials"
+      ]
+    },
+    {
+      "company": "Intel Corporation",
+      "position": "Machine Learning Intern",
+      "website": "https://www.intel.com",
+      "startDate": "2023-01-01",
+      "endDate": "2023-06-30",
+      "summary": "Applied machine learning and computer vision techniques in a hybrid research internship in Dublin.",
+      "highlights": [
+        "Scaled image classification models using Kubeflow pipelines for faster training and evaluation",
+        "Increased the accuracy of an image recognition model for varying lighting conditions using Continual Learning",
+        "Developed a dynamic text clustering method to group similar documents from a large unstructured dataset and identify new groups as new documents are included"
+      ]
+    },
+    {
+      "company": "Commvault",
+      "position": "Senior Software Developer",
+      "website": "https://www.commvault.com",
+      "startDate": "2018-10-01",
+      "endDate": "2020-09-30",
+      "summary": "Developed and maintained premium backup and restore features in the Commvault® data management product.",
+      "highlights": [
+        "Developed and maintained premium backup and restore features in the Commvault® data management product",
+        "Actively interacted with worldwide customers to understand and solve issues related to the MySQL backup agent"
+      ]
+    },
+    {
+      "company": "Commvault",
+      "position": "Software Developer",
+      "website": "https://www.commvault.com",
+      "startDate": "2016-10-01",
+      "endDate": "2018-09-30",
+      "summary": "Contributed to API developments for backup agents of Big Data and Cloud applications.",
+      "highlights": [
+        "Contributed to API developments for the backup agents of Big Data Applications like Hadoop and MongoDB",
+        "Contributed to API developments for the backup agents of Cloud Applications like Amazon RDS and Azure Storage",
+        "Developed a web application to support 1-Touch recovery workflow for Unix file systems"
+      ]
+    },
+    {
+      "company": "Commvault",
+      "position": "Associate Software Developer",
+      "website": "https://www.commvault.com",
+      "startDate": "2015-06-01",
+      "endDate": "2016-09-30",
+      "summary": "Developed and maintained Java UI features and SQL stored procedures in Commvault data management software.",
+      "highlights": [
+        "Developed and maintained Java UI features in Commvault data management software",
+        "Implemented SQL stored procedures to query and process large-scale enterprise data"
+      ]
+    },
+    {
+      "company": "NCode Club, IEEE UVCE",
+      "position": "Lead Programmer",
+      "website": "",
+      "startDate": "2012-01-01",
+      "endDate": "2014-12-31",
+      "summary": "Led a programming club under the IEEE UVCE student branch.",
+      "highlights": [
+        "Participated in programming contests like ACM ICPC, IEEE Xtreme, and E-Yantra",
+        "Organised monthly programming contests that encouraged many students to develop programming skills"
+      ]
+    }
+  ],
   "education": [
     {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2018",
+      "institution": "Trinity College Dublin",
+      "area": "AI for Connected Autonomous Vehicles",
+      "studyType": "Doctor of Philosophy (PhD)",
+      "startDate": "2021-09-01",
+      "endDate": "",
       "gpa": null,
-      "courses": []
+      "courses": [
+        "Multi-Agent Reinforcement Learning",
+        "Safe AI",
+        "Autonomous Driving",
+        "Control Theory"
+      ]
     },
     {
-      "institution": "GitHub University",
-      "area": "M.S. in Jekyll",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2014",
-      "gpa": null,
-      "courses": []
+      "institution": "Trinity College Dublin",
+      "area": "Data Science",
+      "studyType": "MSc Computer Science",
+      "startDate": "2020-09-01",
+      "endDate": "2021-08-31",
+      "gpa": "72.3",
+      "courses": [
+        "Machine Learning",
+        "Data Mining",
+        "Statistical Methods",
+        "Cloud Computing",
+        "IoT",
+        "Research Methods",
+        "Artificial Intelligence",
+        "Computer Vision"
+      ]
     },
     {
-      "institution": "GitHub University",
-      "area": "B.S. in GitHub",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2012",
+      "institution": "University Visvesvaraya College of Engineering (UVCE)",
+      "area": "Information Science",
+      "studyType": "Bachelor of Engineering (BE)",
+      "startDate": "2011-09-01",
+      "endDate": "2015-06-30",
       "gpa": null,
       "courses": []
     }
   ],
-  "skills": [],
-  "languages": [],
-  "interests": [],
+  "skills": [
+    {
+      "name": "Deep Intelligence",
+      "level": "Expert",
+      "keywords": [
+        "PyTorch",
+        "TensorFlow",
+        "Reinforcement Learning (RL)",
+        "Image Classification",
+        "Image Recognition",
+        "OpenCV",
+        "Transformers",
+        "Multi-Agent Systems",
+        "Continual Learning",
+        "LLMs",
+        "Physics Informed NNs",
+        "Parameter Tuning",
+        "Ray RLlib"
+      ]
+    },
+    {
+      "name": "Machine Learning",
+      "level": "Expert",
+      "keywords": [
+        "Clustering",
+        "Regression",
+        "NLTK",
+        "Doc2Vec",
+        "Scikit-learn",
+        "Pandas",
+        "Data Visualisation (d3, W&B, Tableau)"
+      ]
+    },
+    {
+      "name": "Software Development",
+      "level": "Expert",
+      "keywords": [
+        "Python",
+        "C/C++",
+        "Java",
+        "JavaScript",
+        "SQL",
+        "RestAPI",
+        "Git"
+      ]
+    },
+    {
+      "name": "Databases",
+      "level": "Proficient",
+      "keywords": [
+        "MySQL",
+        "Postgres",
+        "MongoDB",
+        "DynamoDB",
+        "PineCone"
+      ]
+    },
+    {
+      "name": "Research",
+      "level": "Expert",
+      "keywords": [
+        "Academic Writing",
+        "Research Methods"
+      ]
+    }
+  ],
+  "languages": [
+    { "language": "English", "fluency": "Fluent" },
+    { "language": "Hindi", "fluency": "Proficient" },
+    { "language": "Kannada", "fluency": "Native" }
+  ],
+  "interests": [
+    {
+      "name": "Research",
+      "keywords": [
+        "Autonomous Driving",
+        "Safe Reinforcement Learning",
+        "Agentic AI",
+        "Multi-Agent Systems"
+      ]
+    }
+  ],
   "references": [],
   "publications": [
     {
-      "name": "Paper Title Number 1",
-      "publisher": "Journal 1",
-      "releaseDate": "2009-10-01",
-      "website": "https://academicpages.github.io/files/paper1.pdf",
-      "summary": "This paper is about the number 1. The number 2 is left for future work."
+      "name": "A Collaborative Safety Shield for Safe and Efficient CAV Lane Changes in Congested On-Ramp Merging",
+      "publisher": "arXiv preprint",
+      "releaseDate": "2026-02-01",
+      "website": "https://arxiv.org/abs/2602.10007",
+      "summary": "A collaborative safety shield framework for safe and efficient CAV lane changes in congested on-ramp merging scenarios."
     },
     {
-      "name": "Paper Title Number 2",
-      "publisher": "Journal 1",
-      "releaseDate": "2010-10-01",
-      "website": "https://academicpages.github.io/files/paper2.pdf",
-      "summary": "This paper is about the number 2. The number 3 is left for future work."
+      "name": "Safe and Efficient CAV Lane Changing Using Decentralised Safety Shields",
+      "publisher": "2025 IEEE Intelligent Vehicles Symposium (IV)",
+      "releaseDate": "2025-06-01",
+      "website": "https://ieeexplore.ieee.org/document/11025651",
+      "summary": "Proposes MARL-HSS combining Hybrid Safety Shield with MARL for safe and efficient CAV lane changes."
     },
     {
-      "name": "Paper Title Number 3",
-      "publisher": "Journal 1",
-      "releaseDate": "2015-10-01",
-      "website": "https://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about the number 3. The number 4 is left for future work."
+      "name": "Safe CAV Lane Changes Using MARL and Control Barrier Functions",
+      "publisher": "ATT @ ECAI 2024",
+      "releaseDate": "2024-10-01",
+      "website": "https://ceur-ws.org/Vol-3813/paper7.pdf",
+      "summary": "A hybrid framework integrating MARL with Control Barrier Functions for provably safe CAV lane changes."
     },
     {
-      "name": "Paper Title Number 4",
-      "publisher": "GitHub Journal of Bugs",
-      "releaseDate": "2024-02-17",
-      "website": "https://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about fixing template issue #693."
+      "name": "Multi-agent Reinforcement Learning for Safe Lane Changes by Connected and Autonomous Vehicles: A Survey",
+      "publisher": "AI Communications",
+      "releaseDate": "2024-01-01",
+      "website": "https://doi.org/10.3233/AIC-220316",
+      "summary": "Survey of MARL-based lane changing methods for CAVs and safe RL methods for ensuring safety."
+    },
+    {
+      "name": "Design of AI-Based Lane Changing Models in Connected and Autonomous Vehicles: a Survey",
+      "publisher": "ATT @ IJCAI 2022",
+      "releaseDate": "2022-07-01",
+      "website": "https://ceur-ws.org/Vol-3169/paper8.pdf",
+      "summary": "Survey of AI-based lane changing models for CAVs, covering classical control and deep learning approaches."
     }
   ],
   "presentations": [
     {
-      "name": "Talk 1 on Relevant Topic in Your Field",
-      "event": "UC San Francisco, Department of Testing",
-      "date": "2012-03-01",
-      "location": "San Francisco, CA, USA",
-      "description": ""
+      "name": "Safe and Efficient CAV Lane Changing Using Decentralised Safety Shields",
+      "event": "IEEE Intelligent Vehicles Symposium (IV) 2025",
+      "date": "2025-06-01",
+      "location": "Cluj-Napoca, Romania",
+      "description": "Presented paper on Hybrid Safety Shield framework for CAV lane changes."
     },
     {
-      "name": "Tutorial 1 on Relevant Topic in Your Field",
-      "event": "UC-Berkeley Institute for Testing Science",
-      "date": "2013-03-01",
-      "location": "Berkeley, CA, USA",
-      "description": ""
+      "name": "Safe CAV Lane Changes Using MARL and Control Barrier Functions",
+      "event": "ATT @ ECAI 2024",
+      "date": "2024-10-01",
+      "location": "Santiago de Compostela, Spain",
+      "description": "Presented paper integrating MARL with CBFs for safe autonomous vehicle lane changes."
     },
     {
-      "name": "Talk 2 on Relevant Topic in Your Field",
-      "event": "London School of Testing",
-      "date": "2014-02-01",
-      "location": "London, UK",
-      "description": ""
-    },
-    {
-      "name": "Conference Proceeding talk 3 on Relevant Topic in Your Field",
-      "event": "Testing Institute of America 2014 Annual Conference",
-      "date": "2014-03-01",
-      "location": "Los Angeles, CA, USA",
-      "description": ""
+      "name": "Design of AI-Based Lane Changing Models in Connected and Autonomous Vehicles: a Survey",
+      "event": "ATT @ IJCAI 2022",
+      "date": "2022-07-01",
+      "location": "Vienna, Austria",
+      "description": "Presented survey of AI-based lane changing models for Connected and Autonomous Vehicles."
     }
   ],
   "teaching": [
     {
-      "course": "Teaching experience 1",
-      "institution": "University 1, Department",
-      "date": "2014-01-01",
-      "role": "Undergraduate course",
-      "description": ""
+      "course": "Machine Learning (MSc)",
+      "institution": "Trinity College Dublin",
+      "date": "2021-09-01",
+      "role": "Graduate Teaching Assistant",
+      "description": "Lab demonstrations and tutorial support for postgraduate Machine Learning module."
     },
     {
-      "course": "Teaching experience 2",
-      "institution": "University 1, Department",
-      "date": "2015-01-01",
-      "role": "Workshop",
-      "description": ""
+      "course": "Data Visualisation (MSc)",
+      "institution": "Trinity College Dublin",
+      "date": "2021-09-01",
+      "role": "Graduate Teaching Assistant",
+      "description": "Lab demonstrations and tutorial support for postgraduate Data Visualisation module."
+    },
+    {
+      "course": "Data Structures (3rd year)",
+      "institution": "Trinity College Dublin",
+      "date": "2021-09-01",
+      "role": "Graduate Teaching Assistant",
+      "description": "Tutorial and lab support for undergraduate Data Structures module."
+    },
+    {
+      "course": "Research Methods (PhD and MSc by Research)",
+      "institution": "Trinity College Dublin",
+      "date": "2021-09-01",
+      "role": "Graduate Teaching Assistant",
+      "description": "Support for Research Methods module for PhD and MSc by Research students."
+    },
+    {
+      "course": "Microprocessor Systems (2nd year)",
+      "institution": "Trinity College Dublin",
+      "date": "2021-09-01",
+      "role": "Graduate Teaching Assistant",
+      "description": "Lab demonstrations for undergraduate Microprocessor Systems module."
     }
   ],
-  "portfolio": [
-    {
-      "name": "Portfolio item number 1",
-      "category": "portfolio",
-      "date": "",
-      "url": "",
-      "description": "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
-    }
-  ]
+  "portfolio": []
 }
